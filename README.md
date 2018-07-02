@@ -8,4 +8,4 @@
 
 <p>Certifications in progress </p>
 <ol>1. Data Quest Data Scientist </ol>
-<ol>2. Deep Learning by Deeplearning.ai by Coursera </ol>
+<ol>2. Deep Learning by deeplearning.ai - Coursera </ol>
